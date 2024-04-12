@@ -6,6 +6,7 @@
     .color-fondo {
         background-color: rgba(49, 2, 70, 0.966);
         padding: 25px;
+        font-weight: bold;
         color: white;
         text-align: center;
     }
